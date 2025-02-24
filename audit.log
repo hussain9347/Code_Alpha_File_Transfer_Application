@@ -1,0 +1,5 @@
+2025-02-23 20:09:08,674 - Failed login attempt for admin
+2025-02-23 20:09:27,218 - User admin authenticated
+2025-02-23 20:09:27,221 - Encryption key generated.
+2025-02-23 20:10:12,701 - File input.txt encrypted.
+2025-02-23 20:11:39,386 - Upload failed: [Errno 11001] getaddrinfo failed
